@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "label": "elemento uno",
+    "children": [
+      {
+        "id": "1-1",
+        "label": "elemento uno-uno"
+      },
+      {
+        "id": "1-2",
+        "label": "elemento uno-dos"
+      }
+    ]
+  }
+]

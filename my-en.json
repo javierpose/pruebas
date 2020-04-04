@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "label": "item one",
+    "children": [
+      {
+        "id": "1-1",
+        "label": "item one-one"
+      },
+      {
+        "id": "1-2",
+        "label": "item one-two"
+      }
+    ]
+  }
+]

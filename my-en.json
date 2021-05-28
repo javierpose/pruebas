@@ -1,16 +1,257 @@
-[
-  {
-    "id": "1",
-    "label": "item one",
-    "children": [
-      {
-        "id": "1-1",
-        "label": "item one-one"
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2587758443385626,
+          43.297858051798485
+        ]
       },
-      {
-        "id": "1-2",
-        "label": "item one-two"
+      "type": "Feature",
+      "properties": {
+        "title_es": "titulo",
+        "content_es": "texto resumen",
+        "url_es": "https://www.gazteaukera.euskadi.eus/gazte-informazioa-resultados//contenidos/convocatoria/convocatoria_1620989431990/es_def/index.shtml",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler"
+        ],
+        "province_es": "Gipuzkoa",
+        "town_es": "zumaya",
+        "organization_es": "zumaya",
+        "id": 3,
+        "image": "images/andoain.jpg"
       }
-    ]
-  }
-]
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.26493699,
+          43.18072528
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "titulo",
+        "content_es": "texto resumen",
+        "url_es": "https://www.gazteaukera.euskadi.eus/gazte-informazioa-resultados//contenidos/convocatoria/convocatoria_1620989431990/es_def/index.shtml",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler"
+        ],
+        "province_es": "Gipuzkoa",
+        "town_es": "Azpeitia",
+        "organization_es": "Azpeitia",
+        "id": 9,
+        "image": "images/azpeitia.jpg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.26493699,
+          43.18072528
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "titulo",
+        "content_es": "texto resumen",
+        "url_es": "https://www.gazteaukera.euskadi.eus/gazte-informazioa-resultados//contenidos/convocatoria/convocatoria_1620989431990/es_def/index.shtml",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler",
+          "Compra"
+        ],
+        "province_es": "Gipuzkoa",
+        "town_es": "Azpeitia",
+        "organization_es": "Azpeitia",
+        "id": 9,
+        "image": "images/azpeitia.jpg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.26493699,
+          43.18072528
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "titulo",
+        "content_es": "texto resumen",
+        "url_es": "https://www.gazteaukera.euskadi.eus/gazte-informazioa-resultados//contenidos/convocatoria/convocatoria_1620989431990/es_def/index.shtml",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler",
+          "Compra"
+        ],
+        "province_es": "Gipuzkoa",
+        "town_es": "",
+        "organization_es": "Diputación de Gipuzkoa",
+        "id": 9,
+        "image": "images/azpeitia.jpg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.55299937,
+          43.07750568
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "t1",
+        "content_es": "texto resumen",
+        "url_es": "a1",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler"
+        ],
+        "province_es": "CAE",
+        "town_es": "",
+        "organization_es": "Gobierno Vasco",
+        "id": 1,
+        "image": "images/andoain.jpg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.55299937,
+          43.07750568
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "t2",
+        "content_es": "texto resumen",
+        "url_es": "a2",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler"
+        ],
+        "province_es": "CAE",
+        "town_es": "",
+        "organization_es": "Gobierno Vasco",
+        "id": 2,
+        "image": "images/andoain.jpg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.73976695,
+          43.41860565
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "titulo",
+        "content_es": "texto resumen",
+        "url_es": "https://www.gazteaukera.euskadi.eus/gazte-informazioa-resultados//contenidos/convocatoria/convocatoria_1620989431990/es_def/index.shtml",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler"
+        ],
+        "province_es": "Bizkaia",
+        "town_es": "Bermeo",
+        "organization_es": "Bermeo",
+        "id": 4,
+        "image": "images/andoain.jpg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8386439,
+          43.24079177
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "titulo",
+        "content_es": "texto resumen",
+        "url_es": "https://www.gazteaukera.euskadi.eus/gazte-informazioa-resultados//contenidos/convocatoria/convocatoria_1620989431990/es_def/index.shtml",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler"
+        ],
+        "province_es": "Bizkaia",
+        "town_es": "",
+        "organization_es": "Diputación de Bizkaia",
+        "id": 5,
+        "image": "images/andoain.jpg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7239741,
+          42.80626091
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "titulo",
+        "content_es": "texto resumen",
+        "url_es": "https://www.gazteaukera.euskadi.eus/gazte-informazioa-resultados//contenidos/convocatoria/convocatoria_1620989431990/es_def/index.shtml",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler"
+        ],
+        "province_es": "Araba",
+        "town_es": "",
+        "organization_es": "Diputación de Araba",
+        "id": 6,
+        "image": "images/andoain.jpg"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.526611328125,
+          41.96765920367816
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "title_es": "titulo 2",
+        "content_es": "texto resumen",
+        "url_es": "https://www.gazteaukera.euskadi.eus/gazte-informazioa-resultados//contenidos/convocatoria/convocatoria_1620989431990/es_def/index.shtml",
+        "web_es": "https://egoitza.gipuzkoa.eus/gao-bog/castell/bog/2021/05/14/c2103115.pdf",
+        "cats_es": "Vivienda",
+        "subcats_es": [
+          "Alquiler"
+        ],
+        "province_es": "Araba",
+        "town_es": "",
+        "organization_es": "Diputación de Araba",
+        "id": 7,
+        "image": "images/andoain.jpg"
+      }
+    }
+  ]
+}
